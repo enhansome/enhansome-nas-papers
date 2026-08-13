@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "2020"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:47:23.425Z",
+    "original_repository": "jackguagua/awesome-nas-papers",
+    "original_repository_sha": "12e2321db170ac51d6b12124916094caa7329bc4",
+    "enhanced_repository": "enhansome/enhansome-nas-papers",
+    "enhanced_repository_description": null,
+    "title": "Awesome Neural Architecture Search Papers with stars"
+  }
+}
