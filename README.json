@@ -1,13 +1,7 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "2020"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T10:13:44.283Z",
+    "last_updated": "2026-08-19T10:13:39.135Z",
     "original_repository": "jackguagua/awesome-nas-papers",
     "original_repository_sha": "12e2321db170ac51d6b12124916094caa7329bc4",
     "enhanced_repository": "enhansome/enhansome-nas-papers",
