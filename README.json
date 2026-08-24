@@ -1,7 +1,1253 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Fast Neural Network Adaptation via Parameter Remapping and Architecture Search(Fang et al. 2020) accepted at ICLR’20 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 230030255,
+            "language": "Python",
+            "last_commit": "2021-07-12T03:41:38Z",
+            "owner": "JaminFong",
+            "repo": "FNA",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation(Liu et al. 2019) accepted at CVPR’19 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 180808248,
+            "language": "Python",
+            "last_commit": "2021-12-21T04:20:12Z",
+            "owner": "MenghaoGuo",
+            "repo": "AutoDeeplab",
+            "stars": 412
+          }
+        }
+      ],
+      "title": "Image_Segmentation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Finding Non-Uniform Quantization Schemes using Multi-Task Gaussian Processes(do Nascimento et al. 2020) accepted at ECCV 2020 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 276874270,
+            "language": "Python",
+            "last_commit": "2020-08-17T13:43:19Z",
+            "owner": "ActiveVisionLab",
+            "repo": "NUQ",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Butterfly Transform: An Efficient FFT Based Neural Architecture Design(Alizadeh vahid et al. 2020) accepted at CVPR 2020 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 253122497,
+            "language": "Python",
+            "last_commit": "2021-04-03T21:23:08Z",
+            "owner": "keivanalizadeh",
+            "repo": "ButterflyTransform",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "NeuralScale: Efficient Scaling of Neurons for Resource-Constrained Deep Neural Networks(Lee and Lee) accepted at CVPR 2020 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 245318536,
+            "language": "Python",
+            "last_commit": "2020-07-14T11:44:57Z",
+            "owner": "eugenelet",
+            "repo": "NeuralScale",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "GAN Compression: Efficient Architectures for Interactive Conditional GAN(Li et al. 2020) Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 245032939,
+            "language": "Python",
+            "last_commit": "2024-06-05T21:59:17Z",
+            "owner": "mit-han-lab",
+            "repo": "gan-compression",
+            "stars": 1115
+          }
+        }
+      ],
+      "title": "Model_Compression"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "NSGANetV2: Evolutionary Multi-Objective Surrogate-Assisted Neural Architecture Search(Lu et al. 2020) accepted at ECCV 2020 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 278894019,
+            "language": "Python",
+            "last_commit": "2022-04-15T15:39:24Z",
+            "owner": "mikelzc1990",
+            "repo": "nsganetv2",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "MemNAS: Memory-Efficient Neural Architecture Search with Grow-Trim Learning(Liu et al.2020) accepted at CVPR 2020 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 238720581,
+            "language": "Python",
+            "last_commit": "2020-06-17T06:24:05Z",
+            "owner": "MemNAS",
+            "repo": "MemNAS",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "APQ: Joint Search for Network Architecture, Pruning and Quantization Policy(Wang et al.2020) accepted at CVPR 2020 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224575297,
+            "language": "Python",
+            "last_commit": "2020-06-16T03:37:21Z",
+            "owner": "mit-han-lab",
+            "repo": "apq",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Multi-Objective Neural Architecture Search Based on Diverse Structures and Adaptive Recommendation(Wang et al. 2020) Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279113914,
+            "language": "Python",
+            "last_commit": "2020-07-14T15:40:15Z",
+            "owner": "wangcn0201",
+            "repo": "MoARR",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "FlexiBO: Cost-Aware Multi-Objective Optimization of Deep Neural Networks(Iqbal et al. 2020) Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202371523,
+            "language": "Python",
+            "last_commit": "2023-03-12T16:11:32Z",
+            "owner": "softsys4ai",
+            "repo": "FlexiBO",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Multi-objective_Search"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "FNA++: Fast Network Adaptation via Parameter Remapping and Architecture Search(Fang et al. 2020) accepted at ICLR 2020 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 230030255,
+            "language": "Python",
+            "last_commit": "2021-07-12T03:41:38Z",
+            "owner": "JaminFong",
+            "repo": "FNA",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Hit-Detector: Hierarchical Trinity Architecture Search for Object Detection(Guo et al. 2020) accepted at CVPR 2020 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 247536987,
+            "language": "Python",
+            "last_commit": "2021-03-26T12:48:28Z",
+            "owner": "ggjy",
+            "repo": "HitDet.pytorch",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Fast Neural Network Adaptation via Parameter Remapping and Architecture Search(Fang et al. 2020) accepted at ICLR’20 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 230030255,
+            "language": "Python",
+            "last_commit": "2021-07-12T03:41:38Z",
+            "owner": "JaminFong",
+            "repo": "FNA",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "DetNAS: Neural Architecture Search on Object Detection(Chen et al. 2019) accepted at NeurIPS’19 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 217649273,
+            "language": "Python",
+            "last_commit": "2020-05-11T11:25:10Z",
+            "owner": "megvii-model",
+            "repo": "DetNAS",
+            "stars": 295
+          }
+        }
+      ],
+      "title": "Object_Detection"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search(Tian et al. 2020) accepted at ECCV 2020 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 277753401,
+            "language": "Python",
+            "last_commit": "2022-06-14T14:15:02Z",
+            "owner": "Yuantian013",
+            "repo": "E2GAN",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks(Fu et al. 2020) accepted at ICML 2020 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272303758,
+            "language": "Python",
+            "last_commit": "2021-12-30T13:46:05Z",
+            "owner": "VITA-Group",
+            "repo": "AGD",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "AutoGAN: Neural Architecture Search for Generative Adversarial Networks(Gong et al. 2019) accepted at ICCV’19 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200117271,
+            "language": "Python",
+            "last_commit": "2024-01-25T01:49:39Z",
+            "owner": "VITA-Group",
+            "repo": "AutoGAN",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Searching towards Class-Aware Generators for Conditional Generative Adversarial Networks(Zhou et al. 2020) Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 274309439,
+            "language": "Python",
+            "last_commit": "2022-07-02T07:36:17Z",
+            "owner": "PeterouZh",
+            "repo": "NAS_cGAN",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "AlphaGAN: Fully Differentiable Architecture Search for Generative Adversarial Networks(Tian et al. 2020) Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272628129,
+            "language": "Python",
+            "last_commit": "2021-08-26T13:44:51Z",
+            "owner": "yuesongtian",
+            "repo": "AlphaGAN",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "GAN Compression: Efficient Architectures for Interactive Conditional GAN(Li et al. 2020) Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 245032939,
+            "language": "Python",
+            "last_commit": "2024-06-05T21:59:17Z",
+            "owner": "mit-han-lab",
+            "repo": "gan-compression",
+            "stars": 1115
+          }
+        }
+      ],
+      "title": "GAN"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Graph Neural Architecture Search(Gao et al. 2020) accepted at IJCAI 2020 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 182482977,
+            "language": "Python",
+            "last_commit": "2023-07-06T21:26:17Z",
+            "owner": "GraphNAS",
+            "repo": "GraphNAS",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "A Generic Graph-based Neural Architecture Encoding Scheme for Predictor-based NAS(Ning et al. 2020) accepted at ECCV 2020 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185360477,
+            "language": "Python",
+            "last_commit": "2025-11-25T05:02:47Z",
+            "owner": "walkerning",
+            "repo": "aw_nas",
+            "stars": 254
+          }
+        }
+      ],
+      "title": "GNN"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Are Labels Necessary for Neural Architecture Search?(Liu et al. 2020) Github",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 282739038,
+            "language": "Python",
+            "last_commit": "2024-03-20T15:47:56Z",
+            "owner": "facebookresearch",
+            "repo": "unnas",
+            "stars": 93
+          }
+        }
+      ],
+      "title": "Unsupervised"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "BATS: Binary ArchitecTure Search(Bulat et al. 2020) accepted at ECCV’20 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 244710800,
+            "language": null,
+            "last_commit": "2020-03-04T01:11:33Z",
+            "owner": "1adrianb",
+            "repo": "binary-nas",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Binary_Networks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "FedNAS: Federated Deep Learning via Neural Architecture Search(He et al. 2020) accepted at CVPR 2020 Workshop on Neural Architecture Search and Beyond for Representation Learning Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 249343313,
+            "language": "Python",
+            "last_commit": "2021-07-26T02:39:44Z",
+            "owner": "chaoyanghe",
+            "repo": "FedNAS",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "Federated_Learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "AutoSpeech: Neural Architecture Search for Speaker Recognition(Ding et al. 2020) Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261377532,
+            "language": "Python",
+            "last_commit": "2022-12-08T09:47:48Z",
+            "owner": "VITA-Group",
+            "repo": "AutoSpeech",
+            "stars": 207
+          }
+        }
+      ],
+      "title": "Speech_Recognition"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search(Dong and Yang et al. 2020) accepted at ICLR’20 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168538768,
+            "language": "Python",
+            "last_commit": "2022-04-24T22:18:16Z",
+            "owner": "D-X-Y",
+            "repo": "AutoDL-Projects",
+            "stars": 1581
+          }
+        }
+      ],
+      "title": "Benchmark"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "FNA++: Fast Network Adaptation via Parameter Remapping and Architecture Search(Fang et al. 2020) accepted at ICLR 2020 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 230030255,
+            "language": "Python",
+            "last_commit": "2021-07-12T03:41:38Z",
+            "owner": "JaminFong",
+            "repo": "FNA",
+            "stars": 164
+          }
+        }
+      ],
+      "title": "Semantic_Segmentation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "On Network Design Spaces for Visual Recognition(Radosavovic et al. 2020) accepted at ICCV 2019 Github",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 191256013,
+            "language": "Python",
+            "last_commit": "2024-03-20T15:45:40Z",
+            "owner": "facebookresearch",
+            "repo": "pycls",
+            "stars": 2161
+          }
+        }
+      ],
+      "title": "Image_Recognition"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TF-NAS: Rethinking Three Search Freedoms of Latency-Constrained Differentiable Neural Architecture Search(Hu et al. 2020)",
+          "description": "accepted at ECCV 2020 TF-NAS Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 277265301,
+            "language": "Python",
+            "last_commit": "2021-05-23T11:03:14Z",
+            "owner": "AberHu",
+            "repo": "TF-NAS",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NSGANetV2: Evolutionary Multi-Objective Surrogate-Assisted Neural Architecture Search(Lu et al. 2020)",
+          "description": "accepted at ECCV 2020 Multi-objective Search Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 278894019,
+            "language": "Python",
+            "last_commit": "2022-04-15T15:39:24Z",
+            "owner": "mikelzc1990",
+            "repo": "nsganetv2",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search(Tian et al. 2020)",
+          "description": "accepted at ECCV 2020 GAN RL Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 277753401,
+            "language": "Python",
+            "last_commit": "2022-06-14T14:15:02Z",
+            "owner": "Yuantian013",
+            "repo": "E2GAN",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Finding Non-Uniform Quantization Schemes using Multi-Task Gaussian Processes(do Nascimento et al. 2020)",
+          "description": "accepted at ECCV 2020 Model Compression Bayesian Optimization Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 276874270,
+            "language": "Python",
+            "last_commit": "2020-08-17T13:43:19Z",
+            "owner": "ActiveVisionLab",
+            "repo": "NUQ",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evolving Robust Neural Architectures to Defend from Adversarial Attacks(Kotyan and Vargas 2020)",
+          "description": "accepted at Proceedings of the Workshop on Artificial Intelligence Safety 2020 Adversarial Attacks and Defenses Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188969082,
+            "language": "Python",
+            "last_commit": "2023-12-17T19:58:56Z",
+            "owner": "shashankkotyan",
+            "repo": "RobustArchitectureSearch",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graph Neural Architecture Search(Gao et al. 2020)",
+          "description": "accepted at IJCAI 2020 GNN RL Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 182482977,
+            "language": "Python",
+            "last_commit": "2023-07-06T21:26:17Z",
+            "owner": "GraphNAS",
+            "repo": "GraphNAS",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Architecture Search with GBDT(Luo et al. 2020)",
+          "description": "Predictor-based Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 278372314,
+            "language": "Python",
+            "last_commit": "2021-10-01T17:56:37Z",
+            "owner": "renqianluo",
+            "repo": "GBDT-NAS",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Study on Encodings for Neural Architecture Search(White et al. 2020)",
+          "description": "Study Survey Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 276718851,
+            "language": "Python",
+            "last_commit": "2021-04-05T03:42:06Z",
+            "owner": "naszilla",
+            "repo": "nas-encodings",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Objective Neural Architecture Search Based on Diverse Structures and Adaptive Recommendation(Wang et al. 2020)",
+          "description": "Multi-objective Search Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279113914,
+            "language": "Python",
+            "last_commit": "2020-07-14T15:40:15Z",
+            "owner": "wangcn0201",
+            "repo": "MoARR",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoSNAP: Automatically Learning Neural Architectures for Instrument Pose Estimation(Kügler et al. 2020)",
+          "description": "accepted at MICCAI 2020 Pose Estimation Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 275106300,
+            "language": null,
+            "last_commit": "2020-06-26T08:53:53Z",
+            "owner": "MECLabTUDA",
+            "repo": "AutoSNAP",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Searching towards Class-Aware Generators for Conditional Generative Adversarial Networks(Zhou et al. 2020)",
+          "description": "GAN Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 274309439,
+            "language": "Python",
+            "last_commit": "2022-07-02T07:36:17Z",
+            "owner": "PeterouZh",
+            "repo": "NAS_cGAN",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FNA++: Fast Network Adaptation via Parameter Remapping and Architecture Search(Fang et al. 2020)",
+          "description": "accepted at ICLR 2020 Semantic SegmentationObject Detection Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 230030255,
+            "language": "Python",
+            "last_commit": "2021-07-12T03:41:38Z",
+            "owner": "JaminFong",
+            "repo": "FNA",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cyclic Differentiable Architecture Search(Yu et al. 2020)",
+          "description": "Search Strategy Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 234862394,
+            "language": "Python",
+            "last_commit": "2022-02-14T08:31:29Z",
+            "owner": "researchmm",
+            "repo": "CyDAS",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DrNAS: Dirichlet Neural Architecture Search(Chen et al. 2020)",
+          "description": "Search Strategy Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 270426291,
+            "language": "Python",
+            "last_commit": "2021-04-12T01:41:09Z",
+            "owner": "xiangning-chen",
+            "repo": "DrNAS",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bonsai-Net: One-Shot Neural Architecture Search via Differentiable Pruners(Geada et al. 2020)",
+          "description": "Search Strategy Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 246059339,
+            "language": "Python",
+            "last_commit": "2023-07-06T21:36:17Z",
+            "owner": "RobGeada",
+            "repo": "bonsai-net-lite",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlphaGAN: Fully Differentiable Architecture Search for Generative Adversarial Networks(Tian et al. 2020)",
+          "description": "GAN DARTS Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272628129,
+            "language": "Python",
+            "last_commit": "2021-08-26T13:44:51Z",
+            "owner": "yuesongtian",
+            "repo": "AlphaGAN",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks(Fu et al. 2020)",
+          "description": "accepted at ICML 2020 GAN Image Translator Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272303758,
+            "language": "Python",
+            "last_commit": "2021-12-30T13:46:05Z",
+            "owner": "VITA-Group",
+            "repo": "AGD",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Architecture Search without Training(Mellor et al. 2020)",
+          "description": "Estimation Strategy Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 268824272,
+            "language": "Python",
+            "last_commit": "2021-08-06T15:44:44Z",
+            "owner": "BayesWatch",
+            "repo": "nas-without-training",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MemNAS: Memory-Efficient Neural Architecture Search with Grow-Trim Learning(Liu et al.2020)",
+          "description": "accepted at CVPR 2020 Multi-objective Search Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 238720581,
+            "language": "Python",
+            "last_commit": "2020-06-17T06:24:05Z",
+            "owner": "MemNAS",
+            "repo": "MemNAS",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Butterfly Transform: An Efficient FFT Based Neural Architecture Design(Alizadeh vahid et al. 2020)",
+          "description": "accepted at CVPR 2020 Model Compression Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 253122497,
+            "language": "Python",
+            "last_commit": "2021-04-03T21:23:08Z",
+            "owner": "keivanalizadeh",
+            "repo": "ButterflyTransform",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APQ: Joint Search for Network Architecture, Pruning and Quantization Policy(Wang et al.2020)",
+          "description": "accepted at CVPR 2020 Multi-objective Search Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224575297,
+            "language": "Python",
+            "last_commit": "2020-06-16T03:37:21Z",
+            "owner": "mit-han-lab",
+            "repo": "apq",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeuralScale: Efficient Scaling of Neurons for Resource-Constrained Deep Neural Networks(Lee and Lee)",
+          "description": "accepted at CVPR 2020 Model Compression Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 245318536,
+            "language": "Python",
+            "last_commit": "2020-07-14T11:44:57Z",
+            "owner": "eugenelet",
+            "repo": "NeuralScale",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On Network Design Spaces for Visual Recognition(Radosavovic et al. 2020)",
+          "description": "accepted at ICCV 2019 Image Recognition Github",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 191256013,
+            "language": "Python",
+            "last_commit": "2024-03-20T15:45:40Z",
+            "owner": "facebookresearch",
+            "repo": "pycls",
+            "stars": 2161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synthetic Petri Dish: A Novel Surrogate Model for Rapid Architecture Search(Rawal et al. 2020)",
+          "description": "Search Strategy Estimation Strategy Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 263462630,
+            "language": "Python",
+            "last_commit": "2020-05-18T20:29:29Z",
+            "owner": "uber-research",
+            "repo": "Synthetic-Petri-Dish",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rethinking Performance Estimation in Neural Architecture Search(Zheng et al. 2020)",
+          "description": "accepted at CVPR 2020 Estimation Strategy Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221926737,
+            "language": "Python",
+            "last_commit": "2023-03-24T23:31:39Z",
+            "owner": "CVPR2020-ID1073",
+            "repo": "Rethinking-Performance-Estimation-in-Neural-Architecture-Search",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Architecture Transfer(Lu et al. 2020)",
+          "description": "Transfer Learning Evolutionary Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 260355720,
+            "language": "Python",
+            "last_commit": "2020-05-15T18:42:30Z",
+            "owner": "human-analysis",
+            "repo": "neural-architecture-transfer",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Noisy Differentiable Architecture Search(Chu et al. 2020)",
+          "description": "Search Strategy Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 262196132,
+            "language": "Python",
+            "last_commit": "2021-10-17T15:11:42Z",
+            "owner": "xiaomi-automl",
+            "repo": "NoisyDARTS",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoSpeech: Neural Architecture Search for Speaker Recognition(Ding et al. 2020)",
+          "description": "Speech Recognition Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261377532,
+            "language": "Python",
+            "last_commit": "2022-12-08T09:47:48Z",
+            "owner": "VITA-Group",
+            "repo": "AutoSpeech",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Local Search is State of the Art for Neural Architecture Search Benchmarks(White et al. 2020)",
+          "description": "accepted at AutoML workshop at ICML’20 Search Strategy Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 255188077,
+            "language": "Python",
+            "last_commit": "2020-11-03T16:05:12Z",
+            "owner": "realityengines",
+            "repo": "local_search",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FedNAS: Federated Deep Learning via Neural Architecture Search(He et al. 2020)",
+          "description": "accepted at CVPR 2020 Workshop on Neural Architecture Search and Beyond for Representation Learning Federated Learning Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 249343313,
+            "language": "Python",
+            "last_commit": "2021-07-26T02:39:44Z",
+            "owner": "chaoyanghe",
+            "repo": "FedNAS",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep-n-Cheap: An Automated Search Framework for Low Complexity Deep Learning(Dey et al. 2020)",
+          "description": "Bayesian Optimization Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250400413,
+            "language": "Python",
+            "last_commit": "2021-05-09T22:04:43Z",
+            "owner": "souryadey",
+            "repo": "deep-n-cheap",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MTL-NAS: Task-Agnostic Neural Architecture Search towards General-Purpose Multi-Task Learning(Gao et al. 2020)",
+          "description": "accepted at CVPR’20 Multi-Task Learning One-shot Gradient-based Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 252890889,
+            "language": "Python",
+            "last_commit": "2022-12-08T03:58:48Z",
+            "owner": "bhpfelix",
+            "repo": "MTLNAS",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiLeNAS: Efficient Neural Architecture Search via Mixed-Level Reformulation(He et al. 2020)",
+          "description": "accepted at CVPR’20 MiLeNAS Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 248116177,
+            "language": "Python",
+            "last_commit": "2020-12-17T10:06:59Z",
+            "owner": "chaoyanghe",
+            "repo": "MiLeNAS",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Are Labels Necessary for Neural Architecture Search?(Liu et al. 2020)",
+          "description": "Unsupervised DARTS Github",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 282739038,
+            "language": "Python",
+            "last_commit": "2024-03-20T15:47:56Z",
+            "owner": "facebookresearch",
+            "repo": "unnas",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hit-Detector: Hierarchical Trinity Architecture Search for Object Detection(Guo et al. 2020)",
+          "description": "accepted at CVPR 2020 Object Detection DARTS Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 247536987,
+            "language": "Python",
+            "last_commit": "2021-03-26T12:48:28Z",
+            "owner": "ggjy",
+            "repo": "HitDet.pytorch",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GAN Compression: Efficient Architectures for Interactive Conditional GAN(Li et al. 2020)",
+          "description": "GAN Model Compression One-shot Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 245032939,
+            "language": "Python",
+            "last_commit": "2024-06-05T21:59:17Z",
+            "owner": "mit-han-lab",
+            "repo": "gan-compression",
+            "stars": 1115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoML-Zero: Evolving Machine Learning Algorithms From Scratch(Real et al. 2020)",
+          "description": "accepted at ICML 2020 AutoML Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151619717,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-21T19:58:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BATS: Binary ArchitecTure Search(Bulat et al. 2020)",
+          "description": "accepted at ECCV’20 Binary Networks DARTS Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 244710800,
+            "language": null,
+            "last_commit": "2020-03-04T01:11:33Z",
+            "owner": "1adrianb",
+            "repo": "binary-nas",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semi-Supervised Neural Architecture Search(Luo et al. 2020)",
+          "description": "SemiNASNAO Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 320145490,
+            "language": "Python",
+            "last_commit": "2020-12-10T03:24:14Z",
+            "owner": "renqianluo",
+            "repo": "SemiNAS",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Architecture Search for Compressed Sensing Magnetic Resonance Image Reconstruction(Yan et al. 2020)",
+          "description": "Medical Magnetic Resonance Imaging DARTS Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 253698811,
+            "language": "Python",
+            "last_commit": "2022-06-09T07:39:37Z",
+            "owner": "yjump",
+            "repo": "NAS-for-CSMRI",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSNAS: Direct Neural Architecture Search without Parameter Retraining(Hu et al. 2020)",
+          "description": "DSNAS Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 248915461,
+            "language": "Python",
+            "last_commit": "2021-01-26T02:02:32Z",
+            "owner": "SNAS-Series",
+            "repo": "SNAS-Series",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlexiBO: Cost-Aware Multi-Objective Optimization of Deep Neural Networks(Iqbal et al. 2020)",
+          "description": "Multi-objective Search Bayesian Optimization Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202371523,
+            "language": "Python",
+            "last_commit": "2023-03-12T16:11:32Z",
+            "owner": "softsys4ai",
+            "repo": "FlexiBO",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast Neural Network Adaptation via Parameter Remapping and Architecture Search(Fang et al. 2020)",
+          "description": "accepted at ICLR’20 Object Detection Image Segmentation DARTS Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 230030255,
+            "language": "Python",
+            "last_commit": "2021-07-12T03:41:38Z",
+            "owner": "JaminFong",
+            "repo": "FNA",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search(Dong and Yang et al. 2020)",
+          "description": "accepted at ICLR’20 Benchmark Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168538768,
+            "language": "Python",
+            "last_commit": "2022-04-24T22:18:16Z",
+            "owner": "D-X-Y",
+            "repo": "AutoDL-Projects",
+            "stars": 1581
+          }
+        }
+      ],
+      "title": "2020"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AutoGAN: Neural Architecture Search for Generative Adversarial Networks(Gong et al. 2019)",
+          "description": "accepted at ICCV’19 GAN Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200117271,
+            "language": "Python",
+            "last_commit": "2024-01-25T01:49:39Z",
+            "owner": "VITA-Group",
+            "repo": "AutoGAN",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DetNAS: Neural Architecture Search on Object Detection(Chen et al. 2019)",
+          "description": "accepted at NeurIPS’19 Object Detection megvii-code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 217649273,
+            "language": "Python",
+            "last_commit": "2020-05-11T11:25:10Z",
+            "owner": "megvii-model",
+            "repo": "DetNAS",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation(Liu et al. 2019)",
+          "description": "accepted at CVPR’19 Image Segmentation Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 180808248,
+            "language": "Python",
+            "last_commit": "2021-12-21T04:20:12Z",
+            "owner": "MenghaoGuo",
+            "repo": "AutoDeeplab",
+            "stars": 412
+          }
+        }
+      ],
+      "title": "2019"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T10:24:02.247Z",
+    "last_updated": "2026-08-24T14:27:36.290Z",
     "original_repository": "jackguagua/awesome-nas-papers",
     "original_repository_id": 287864466,
     "original_repository_sha": "12e2321db170ac51d6b12124916094caa7329bc4",
