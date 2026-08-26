@@ -1080,10 +1080,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T19:58:51Z",
+            "last_commit": "2026-08-25T18:30:01Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38616
+            "stars": 38623
           }
         },
         {
@@ -1247,7 +1247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:16:39.137Z",
+    "last_updated": "2026-08-26T10:20:24.210Z",
     "original_repository": "jackguagua/awesome-nas-papers",
     "original_repository_id": 287864466,
     "original_repository_sha": "12e2321db170ac51d6b12124916094caa7329bc4",
