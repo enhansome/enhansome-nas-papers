@@ -1080,10 +1080,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T18:30:01Z",
+            "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38623
+            "stars": 38630
           }
         },
         {
@@ -1247,9 +1247,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:20:24.210Z",
-    "original_repository": "jackguagua/awesome-nas-papers",
-    "original_repository_id": 287864466,
+    "last_updated": "2026-08-27T11:56:37.122Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 287864466,
+      "language": null,
+      "last_commit": "2024-01-31T21:46:21Z",
+      "owner": "jackguagua",
+      "repo": "awesome-nas-papers",
+      "stars": 405
+    },
     "original_repository_sha": "12e2321db170ac51d6b12124916094caa7329bc4",
     "enhanced_repository": "enhansome/enhansome-nas-papers",
     "enhanced_repository_description": null,
