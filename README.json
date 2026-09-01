@@ -473,7 +473,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2021-08-26T13:44:51Z",
-            "open_issues": 4,
+            "open_issues": 3,
             "owner": "yuesongtian",
             "repo": "AlphaGAN",
             "stars": 18,
@@ -533,7 +533,7 @@
             "open_issues": 5,
             "owner": "GraphNAS",
             "repo": "GraphNAS",
-            "stars": 182,
+            "stars": 183,
             "topics": [
               "graph-neural-networks",
               "neural-architecture-search"
@@ -928,7 +928,7 @@
             "open_issues": 5,
             "owner": "GraphNAS",
             "repo": "GraphNAS",
-            "stars": 182,
+            "stars": 183,
             "topics": [
               "graph-neural-networks",
               "neural-architecture-search"
@@ -1148,7 +1148,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2021-08-26T13:44:51Z",
-            "open_issues": 4,
+            "open_issues": 3,
             "owner": "yuesongtian",
             "repo": "AlphaGAN",
             "stars": 18,
@@ -1625,7 +1625,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38659,
+            "stars": 38665,
             "topics": [
               "ai",
               "machine-learning",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:14:59.400Z",
+    "last_updated": "2026-09-01T14:20:06.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Neural Architecture Search Papers",
