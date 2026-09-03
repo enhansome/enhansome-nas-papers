@@ -473,7 +473,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2021-08-26T13:44:51Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "yuesongtian",
             "repo": "AlphaGAN",
             "stars": 18,
@@ -1148,7 +1148,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2021-08-26T13:44:51Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "yuesongtian",
             "repo": "AlphaGAN",
             "stars": 18,
@@ -1621,11 +1621,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T14:53:17Z",
+            "last_commit": "2026-09-03T08:28:07Z",
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38678,
+            "stars": 38689,
             "topics": [
               "ai",
               "machine-learning",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T13:53:53.450Z",
+    "last_updated": "2026-09-03T13:56:53.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Neural Architecture Search Papers",
