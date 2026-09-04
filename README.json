@@ -1198,7 +1198,7 @@
             "open_issues": 8,
             "owner": "BayesWatch",
             "repo": "nas-without-training",
-            "stars": 478,
+            "stars": 479,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:56:53.229Z",
+    "last_updated": "2026-09-04T13:48:55.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Neural Architecture Search Papers",
