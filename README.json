@@ -1625,7 +1625,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38689,
+            "stars": 38693,
             "topics": [
               "ai",
               "machine-learning",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T13:48:55.702Z",
+    "last_updated": "2026-09-05T13:03:50.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Neural Architecture Search Papers",
