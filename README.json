@@ -127,7 +127,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-06-05T21:59:17Z",
-            "open_issues": 11,
+            "open_issues": 10,
             "owner": "mit-han-lab",
             "repo": "gan-compression",
             "stars": 1115,
@@ -428,7 +428,7 @@
             "open_issues": 4,
             "owner": "VITA-Group",
             "repo": "AutoGAN",
-            "stars": 468,
+            "stars": 467,
             "topics": [
               "autogan",
               "cifar10",
@@ -494,7 +494,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-06-05T21:59:17Z",
-            "open_issues": 11,
+            "open_issues": 10,
             "owner": "mit-han-lab",
             "repo": "gan-compression",
             "stars": 1115,
@@ -702,7 +702,7 @@
             "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1581,
+            "stars": 1582,
             "topics": [
               "autodl",
               "automl",
@@ -1592,7 +1592,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-06-05T21:59:17Z",
-            "open_issues": 11,
+            "open_issues": 10,
             "owner": "mit-han-lab",
             "repo": "gan-compression",
             "stars": 1115,
@@ -1621,11 +1621,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T08:28:07Z",
+            "last_commit": "2026-09-08T09:22:17Z",
             "open_issues": 1990,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38706,
+            "stars": 38712,
             "topics": [
               "ai",
               "machine-learning",
@@ -1780,7 +1780,7 @@
             "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1581,
+            "stars": 1582,
             "topics": [
               "autodl",
               "automl",
@@ -1813,7 +1813,7 @@
             "open_issues": 4,
             "owner": "VITA-Group",
             "repo": "AutoGAN",
-            "stars": 468,
+            "stars": 467,
             "topics": [
               "autogan",
               "cifar10",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T15:19:29.339Z",
+    "last_updated": "2026-09-08T13:55:17.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Neural Architecture Search Papers",
