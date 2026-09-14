@@ -1622,10 +1622,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T00:21:25Z",
-            "open_issues": 1992,
+            "open_issues": 1993,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38747,
+            "stars": 38755,
             "topics": [
               "ai",
               "machine-learning",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:56:31.308Z",
+    "last_updated": "2026-09-14T16:00:24.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Neural Architecture Search Papers",
