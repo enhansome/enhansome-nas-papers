@@ -40,7 +40,7 @@
             "open_issues": 25,
             "owner": "MenghaoGuo",
             "repo": "AutoDeeplab",
-            "stars": 412,
+            "stars": 411,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -1198,7 +1198,7 @@
             "open_issues": 8,
             "owner": "BayesWatch",
             "repo": "nas-without-training",
-            "stars": 479,
+            "stars": 478,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -1621,11 +1621,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T17:14:49Z",
+            "last_commit": "2026-09-16T19:46:42Z",
             "open_issues": 1994,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38773,
+            "stars": 38781,
             "topics": [
               "ai",
               "machine-learning",
@@ -1861,7 +1861,7 @@
             "open_issues": 25,
             "owner": "MenghaoGuo",
             "repo": "AutoDeeplab",
-            "stars": 412,
+            "stars": 411,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T14:23:19.288Z",
+    "last_updated": "2026-09-17T14:28:36.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Neural Architecture Search Papers",
