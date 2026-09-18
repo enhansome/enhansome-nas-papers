@@ -557,7 +557,7 @@
             "open_issues": 14,
             "owner": "walkerning",
             "repo": "aw_nas",
-            "stars": 254,
+            "stars": 253,
             "topics": [
               "auto-ml",
               "deep-neural-networks",
@@ -1625,7 +1625,7 @@
             "open_issues": 1994,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38781,
+            "stars": 38788,
             "topics": [
               "ai",
               "machine-learning",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T14:28:36.889Z",
+    "last_updated": "2026-09-18T13:54:27.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Neural Architecture Search Papers",
