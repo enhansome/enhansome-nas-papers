@@ -557,7 +557,7 @@
             "open_issues": 14,
             "owner": "walkerning",
             "repo": "aw_nas",
-            "stars": 253,
+            "stars": 252,
             "topics": [
               "auto-ml",
               "deep-neural-networks",
@@ -702,7 +702,7 @@
             "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1583,
+            "stars": 1582,
             "topics": [
               "autodl",
               "automl",
@@ -762,7 +762,7 @@
             "open_issues": 27,
             "owner": "facebookresearch",
             "repo": "pycls",
-            "stars": 2161,
+            "stars": 2160,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -1308,7 +1308,7 @@
             "open_issues": 27,
             "owner": "facebookresearch",
             "repo": "pycls",
-            "stars": 2161,
+            "stars": 2160,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -1622,10 +1622,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T19:46:42Z",
-            "open_issues": 1994,
+            "open_issues": 1995,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38788,
+            "stars": 38792,
             "topics": [
               "ai",
               "machine-learning",
@@ -1713,7 +1713,7 @@
             "open_issues": 3,
             "owner": "SNAS-Series",
             "repo": "SNAS-Series",
-            "stars": 149,
+            "stars": 148,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -1780,7 +1780,7 @@
             "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1583,
+            "stars": 1582,
             "topics": [
               "autodl",
               "automl",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:54:27.139Z",
+    "last_updated": "2026-09-19T13:30:13.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Neural Architecture Search Papers",
