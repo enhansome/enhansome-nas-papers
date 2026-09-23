@@ -588,7 +588,7 @@
             "open_issues": 4,
             "owner": "facebookresearch",
             "repo": "unnas",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -1553,7 +1553,7 @@
             "open_issues": 4,
             "owner": "facebookresearch",
             "repo": "unnas",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -1621,11 +1621,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T21:46:37Z",
-            "open_issues": 1995,
+            "last_commit": "2026-09-23T12:02:29Z",
+            "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38812,
+            "stars": 38819,
             "topics": [
               "ai",
               "machine-learning",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T14:12:41.481Z",
+    "last_updated": "2026-09-23T14:28:05.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Neural Architecture Search Papers",
