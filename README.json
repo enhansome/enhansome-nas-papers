@@ -130,7 +130,7 @@
             "open_issues": 10,
             "owner": "mit-han-lab",
             "repo": "gan-compression",
-            "stars": 1115,
+            "stars": 1114,
             "topics": [
               "compression",
               "conditional-gans",
@@ -497,7 +497,7 @@
             "open_issues": 10,
             "owner": "mit-han-lab",
             "repo": "gan-compression",
-            "stars": 1115,
+            "stars": 1114,
             "topics": [
               "compression",
               "conditional-gans",
@@ -1595,7 +1595,7 @@
             "open_issues": 10,
             "owner": "mit-han-lab",
             "repo": "gan-compression",
-            "stars": 1115,
+            "stars": 1114,
             "topics": [
               "compression",
               "conditional-gans",
@@ -1625,7 +1625,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38825,
+            "stars": 38833,
             "topics": [
               "ai",
               "machine-learning",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T14:28:13.317Z",
+    "last_updated": "2026-09-25T14:46:42.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Neural Architecture Search Papers",
