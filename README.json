@@ -557,7 +557,7 @@
             "open_issues": 14,
             "owner": "walkerning",
             "repo": "aw_nas",
-            "stars": 252,
+            "stars": 253,
             "topics": [
               "auto-ml",
               "deep-neural-networks",
@@ -702,7 +702,7 @@
             "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1582,
+            "stars": 1581,
             "topics": [
               "autodl",
               "automl",
@@ -1625,7 +1625,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38832,
+            "stars": 38833,
             "topics": [
               "ai",
               "machine-learning",
@@ -1780,7 +1780,7 @@
             "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1582,
+            "stars": 1581,
             "topics": [
               "autodl",
               "automl",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:54:26.229Z",
+    "last_updated": "2026-09-27T14:50:35.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Neural Architecture Search Papers",
