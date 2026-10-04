@@ -1198,7 +1198,7 @@
             "open_issues": 8,
             "owner": "BayesWatch",
             "repo": "nas-without-training",
-            "stars": 480,
+            "stars": 481,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -1622,10 +1622,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T21:03:49Z",
-            "open_issues": 1996,
+            "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38868,
+            "stars": 38871,
             "topics": [
               "ai",
               "machine-learning",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:26:18.199Z",
+    "last_updated": "2026-10-04T15:00:17.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Neural Architecture Search Papers",
