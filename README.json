@@ -702,7 +702,7 @@
             "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1581,
+            "stars": 1580,
             "topics": [
               "autodl",
               "automl",
@@ -1625,7 +1625,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38927,
+            "stars": 38936,
             "topics": [
               "ai",
               "machine-learning",
@@ -1780,7 +1780,7 @@
             "open_issues": 15,
             "owner": "D-X-Y",
             "repo": "AutoDL-Projects",
-            "stars": 1581,
+            "stars": 1580,
             "topics": [
               "autodl",
               "automl",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:16:51.270Z",
+    "last_updated": "2026-10-18T13:37:11.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Neural Architecture Search Papers",
