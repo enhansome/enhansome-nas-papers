@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "JaminFong",
             "repo": "FNA",
-            "stars": 164,
+            "stars": 163,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -291,7 +291,7 @@
             "open_issues": 3,
             "owner": "JaminFong",
             "repo": "FNA",
-            "stars": 164,
+            "stars": 163,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -333,7 +333,7 @@
             "open_issues": 3,
             "owner": "JaminFong",
             "repo": "FNA",
-            "stars": 164,
+            "stars": 163,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -588,7 +588,7 @@
             "open_issues": 4,
             "owner": "facebookresearch",
             "repo": "unnas",
-            "stars": 94,
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -735,7 +735,7 @@
             "open_issues": 3,
             "owner": "JaminFong",
             "repo": "FNA",
-            "stars": 164,
+            "stars": 163,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -1067,7 +1067,7 @@
             "open_issues": 3,
             "owner": "JaminFong",
             "repo": "FNA",
-            "stars": 164,
+            "stars": 163,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -1553,7 +1553,7 @@
             "open_issues": 4,
             "owner": "facebookresearch",
             "repo": "unnas",
-            "stars": 94,
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -1621,11 +1621,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T00:52:55Z",
-            "open_issues": 2009,
+            "last_commit": "2026-10-23T21:57:07Z",
+            "open_issues": 2024,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39013,
+            "stars": 39015,
             "topics": [
               "ai",
               "machine-learning",
@@ -1759,7 +1759,7 @@
             "open_issues": 3,
             "owner": "JaminFong",
             "repo": "FNA",
-            "stars": 164,
+            "stars": 163,
             "topics": []
           },
           "first_seen": "2026-08-28T21:00:24.907Z"
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:28:56.553Z",
+    "last_updated": "2026-10-24T13:39:12.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Neural Architecture Search Papers",
