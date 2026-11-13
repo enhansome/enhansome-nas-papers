@@ -213,7 +213,7 @@
             "open_issues": 9,
             "owner": "mit-han-lab",
             "repo": "apq",
-            "stars": 160,
+            "stars": 161,
             "topics": [
               "compression",
               "joint-optimization",
@@ -1261,7 +1261,7 @@
             "open_issues": 9,
             "owner": "mit-han-lab",
             "repo": "apq",
-            "stars": 160,
+            "stars": 161,
             "topics": [
               "compression",
               "joint-optimization",
@@ -1622,10 +1622,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-11-11T11:58:31Z",
-            "open_issues": 2012,
+            "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39161,
+            "stars": 39166,
             "topics": [
               "ai",
               "machine-learning",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T17:45:39.682Z",
+    "last_updated": "2026-11-13T17:24:01.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Neural Architecture Search Papers",
