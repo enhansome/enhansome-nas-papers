@@ -1621,11 +1621,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T08:37:24Z",
-            "open_issues": 2020,
+            "last_commit": "2026-11-27T16:02:30Z",
+            "open_issues": 2023,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39515,
+            "stars": 39561,
             "topics": [
               "ai",
               "machine-learning",
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:17:53.700Z",
+    "last_updated": "2026-11-27T19:12:04.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Neural Architecture Search Papers",
